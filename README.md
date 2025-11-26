@@ -1,6 +1,7 @@
 # ARP Spoofing with Scapy
 
 A Python implementation of ARP spoofing (ARP poisoning) attack using the Scapy library. This tool intercepts network traffic between two devices on a local network.
+![Uploading Capture d'écran 2025-11-26 134042.png…]()
 
 ## ⚠️ Legal Disclaimer
 
